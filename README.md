@@ -1,4 +1,4 @@
-# flutter_first_page
+# BMI Calculator
 
 A new Flutter application.
 
